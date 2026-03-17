@@ -1,0 +1,7 @@
+dbt-postgres
+faker
+psycopg2-binary
+pytest
+pytest-cov
+pytest-mock
+pytest-xdist 
